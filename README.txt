@@ -1,8 +1,14 @@
-// TODO: For every project create a README file at the top-level directory of 
-//       your project. Your README must include a list of .java files you are 
-//       submitting and a brief description of each. You may ignore IDE specific 
-//       files such as .gitignore 
+project folder:
+MHyoga-cs 1b-project01/
 
-// NOTE: Alternatively you can create this file in Markdown format. 
-//       See the tutorial:
-//       https://guides.github.com/features/mastering-markdown/
+
+Brief description of submitted files:
+
+src/DemoGit.java
+    - Includes main() for debugging
+
+resources/RUN.txt
+    - console output of my name
+
+README.txt
+    - description of submitted files
